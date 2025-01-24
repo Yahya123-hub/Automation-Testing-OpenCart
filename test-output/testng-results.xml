@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="14" total="15" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-11T19:11:40 PKT" name="Default suite" finished-at="2025-01-11T19:12:01 PKT" duration-ms="21510">
+    <groups>
+    </groups>
+    <test started-at="2025-01-11T19:11:40 PKT" name="Default test" finished-at="2025-01-11T19:12:01 PKT" duration-ms="21510">
+      <class name="tests.OpenCartTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.OpenCartTests@397fbdb]" started-at="2025-01-11T19:11:40 PKT" name="setUp" finished-at="2025-01-11T19:11:41 PKT" duration-ms="1262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testsearch()[pri:0, instance:tests.OpenCartTests@397fbdb]" started-at="2025-01-11T19:11:41 PKT" name="testsearch" finished-at="2025-01-11T19:11:55 PKT" duration-ms="13966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.OpenCartTests@397fbdb]" started-at="2025-01-11T19:11:55 PKT" name="tearDown" finished-at="2025-01-11T19:12:01 PKT" duration-ms="6255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.OpenCartTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
