@@ -53,3 +53,6 @@ Extent Reports – Visual test reports with screenshots.
 -Running parallel tests with TestNG XML.
 
 -Generating detailed Extent Reports.
+
+![selenium](https://github.com/user-attachments/assets/59628f3d-637b-4547-b541-0bbafbf9f37d)
+
