@@ -1,5 +1,3 @@
-# OpenCart Automation Testing Project
-
 ## 📌 Overview
 This project demonstrates **automation testing** of the [OpenCart Demo](https://demo.opencart.com/) using **Java, Selenium WebDriver, and TestNG**. The automation suite covers key e-commerce functionalities like **user authentication, product search, cart management, and checkout process**.
 
