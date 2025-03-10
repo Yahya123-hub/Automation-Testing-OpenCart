@@ -45,7 +45,11 @@ Extent Reports – Visual test reports with screenshots.
 
 ### **🎯 Key Learnings
 -Implementing Selenium WebDriver with TestNG.
+
 -Structuring tests using the Page Object Model (POM).
+
 -Handling dynamic elements, waits, and browser interactions.
+
 -Running parallel tests with TestNG XML.
+
 -Generating detailed Extent Reports.
