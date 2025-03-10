@@ -38,12 +38,12 @@ This project demonstrates **automation testing** of the [OpenCart Demo](https://
 - 💳 Fill in billing & shipping details
 - ✅ Complete an order
 
-### **📊 Test Reports
+### 📊 Test Reports
 TestNG Reports – HTML reports for execution results.
 
 Extent Reports – Visual test reports with screenshots.
 
-### **🎯 Key Learnings
+### 🎯 Key Learnings
 -Implementing Selenium WebDriver with TestNG.
 
 -Structuring tests using the Page Object Model (POM).
